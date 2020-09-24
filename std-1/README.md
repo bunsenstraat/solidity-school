@@ -1,5 +1,5 @@
 # Standard :one:
-Looks you have passed through the Standard 0 and have a basic level of understanding of smart contract development and related concepts. 
+Looks you have "passed" '`/\' through the Standard 0 and have a basic level of understanding of smart contract development and related concepts. 
 
 Here we will go further on Solidity ladder and will get you introduced to one level up things.
 
