@@ -1,5 +1,5 @@
 # :school_satchel: solidity-school
-This is an initiative for the early solidity developers by those who were early developers sometime.
+This is an "initiative" ' ` for the early solidity developers by those who were early developers sometime.
 
 In this approach, we are looking to categorize the smart contract according to the difficulty level in multiple standards. For now, we are keeping the standard 0 to 5(can be discussed).
 
